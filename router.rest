@@ -1,0 +1,11 @@
+GET http://localhost:3000/countries
+
+
+###
+
+POST http://localhost:3000/countries
+
+{
+    "name": "South Africa",
+    "unMember": true
+}
